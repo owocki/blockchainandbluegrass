@@ -2522,7 +2522,7 @@
 		ul li {
 			padding-left: 0.5rem;
 			list-style: none;
-		}
+			}
 
 		ul.alt {
 			list-style: none;
@@ -8415,3 +8415,9 @@
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+@media screen and (max-width: 1280px) {
+	.banner.style1 .image{
+		display: none;
+	}
+}
