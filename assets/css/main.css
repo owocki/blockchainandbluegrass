@@ -8421,3 +8421,10 @@
 		display: none;
 	}
 }
+#cta li{
+	text-align: left;
+}
+#cta ol{
+	max-width: 400px;
+	margin: 0px auto;
+}
