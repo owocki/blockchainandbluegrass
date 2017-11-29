@@ -1,8 +1,8 @@
-# BlockchainandBluegrass.com
+# EthDenverAfterParty.com
 
-<img src="https://blockchainandbluegrass.com/images/logo.jpg" width=450 height=405>
+<img src="https://EthDenverAfterParty.com/images/logo.jpg" width=450 height=405>
 
-Blockchain and Bluegrass is a 3 day celebration of blockchain, skiing, and bluegrass, hosted in Colorado. 
+EthDenverAfterParty is a week long celebration of blockchain, skiing, and bluegrass, hosted in Colorado. 
 
-More info at [https://blockchainandbluegrass.com/](https://blockchainandbluegrass.com/)
+More info at [https://EthDenverAfterParty.com/](https://EthDenverAfterParty.com/)
 
